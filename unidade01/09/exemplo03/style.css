@@ -1,0 +1,15 @@
+div {
+    background-color: lightgray;
+}
+img {
+    width: 80px;
+}
+span {
+    font-size: 32px;
+    color: crimson;
+    font-weight: 600;
+}
+p {
+    color: white;
+    font-size: 20px;
+}
